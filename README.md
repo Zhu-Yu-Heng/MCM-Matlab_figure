@@ -1,0 +1,1 @@
+This code is about 2024 MCM A graphics rendering code, is founded by our team, you can also click on the https://github.com/Qiushan1236545/Matlab-code website, it also has the same file, he is by my team members to upload. Thank you for your feedback.以上翻译结果来自有道神经网络翻译（YNMT）· 通用场景
